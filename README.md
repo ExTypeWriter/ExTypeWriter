@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ExTypeWriter
 - 👀 I’m interested in : IoT, Front-end web development, Cybersecurity.
-- 🌱 I’m currently learning : Risk Assesment, Flutter.
+- 🌱 I’m currently learning : Risk Assesment, Flutter app development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : Personal mail : pichawat43695@gmail.com, College mail : pichawat.adul@mail.kmutt.ac.th, Discord : Solitary#6273
 
