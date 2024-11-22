@@ -2,9 +2,9 @@
 - 👀 I’m interested in : IoT, Front-end web development, Cybersecurity.
 - 🌱 I’m currently learning : Risk Assesment, Flutter app development.
 - 📫 How to reach me :
-      \  Personal mail : pichawat43695@gmail.com
-       \ College mail : pichawat.adul@mail.kmutt.ac.th
-       \ Discord : Solitary#6273
+        Personal mail : pichawat43695@gmail.com __
+        College mail : pichawat.adul@mail.kmutt.ac.th __
+        Discord : Solitary#6273
 
 <!---
 ExTypeWriter/ExTypeWriter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
