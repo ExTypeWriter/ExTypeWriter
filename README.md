@@ -6,4 +6,4 @@
         College mail : pichawat.adul@mail.kmutt.ac.th  <br />
         Discord : Solitary#6273
 
-![Metrics](https://github.com/ExTypeWriter/ExTypeWriter/blob/main/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/ExTypeWriter/ExTypeWriter/main/github-metrics.svg)
