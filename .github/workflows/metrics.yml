@@ -16,7 +16,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           
           # Options
-          user: YOUR_USERNAME
+          user: ExTypeWriter
           template: classic
           base: ""
           config_timezone: Your/Timezone
