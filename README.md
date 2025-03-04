@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning : Risk Assesment, Flutter cross platform app development ( Windows , Android ).
 - 📫 How to reach me :
          <br /> Personal mail : pichawat43695@gmail.com  <br />
-        College mail : pichawat.adul@mail.kmutt.ac.th  <br />
+        University mail : pichawat.adul@mail.kmutt.ac.th  <br />
         Discord : Solitary#6273
 
 ![Metrics](./github-metrics.svg)
