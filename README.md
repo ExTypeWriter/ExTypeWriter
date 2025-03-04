@@ -10,4 +10,4 @@
 ExTypeWriter/ExTypeWriter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ExTypeWriter&layout=compact&theme=dracula#gh-dark-mode-only)
+![Metrics](https://github.com/ExTypeWriter/ExTypeWriter/blob/main/github-metrics.svg)
