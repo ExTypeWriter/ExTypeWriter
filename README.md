@@ -6,8 +6,4 @@
         College mail : pichawat.adul@mail.kmutt.ac.th  <br />
         Discord : Solitary#6273
 
-<!---
-ExTypeWriter/ExTypeWriter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 ![Metrics](https://github.com/ExTypeWriter/ExTypeWriter/blob/main/github-metrics.svg)
